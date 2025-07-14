@@ -67,7 +67,7 @@ struct BugDashboardView: View {
     var body: some View {
         NavigationView {
             VStack {
-                Text("Radar Bug Triage")
+                Text("Radar Bug Triage App")
                     .font(.title)
                     .padding()
                 
